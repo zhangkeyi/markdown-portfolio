@@ -5,5 +5,5 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
-:+1:
-:heart:
+**:+1:**
+_:heart:_
