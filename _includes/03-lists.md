@@ -1,4 +1,2 @@
 - Redis
-  - [Redis 数据类型]()
-- Item 2
-  - Item 22
+  - [Redis 数据类型](04-Redis数据类型)
